@@ -1,0 +1,88 @@
+th, td {
+    color: navy;
+}
+
+body {
+    background-color: #1D2D50;
+    color: #FCDAB7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+header {
+    background-color: #1D2D50;
+    color: #FCDAB7;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px 10px 0 0;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: #FCDAB7;
+    color: #1D2D50;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+nav a {
+    color: #1D2D50;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #1D2D50;
+}
+
+#lists {
+    background-color: #1D2D50;
+    color: #FCDAB7;
+    font-size: medium;
+}
+
+.special {
+    color: #1D2D50;
+    font-size: large;
+}
+
+.company {
+    color: #FCDAB7;
+    font-weight: bold;
+}
+
+#content {
+    background-color: #1D2D50;
+    color: #FCDAB7;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #1D2D50;
+    color: #FCDAB7;
+    font-size: medium;
+    text-align: center;
+    border-style: ridge;
+    border-color: #1D2D50 #1D2D50 #1E5F74 #1D2D50;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+main {
+    margin-bottom: 80px;
+}
+
+
+    
